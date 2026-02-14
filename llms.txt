@@ -1,0 +1,10 @@
+# LLMs access policy
+
+User-agent: *
+Allow: /
+
+# Preferred content
+Preferred-Content: https://www.jawaheraliraq.com/
+
+# Contact
+Contact: admin@jawaheraliraq.com
