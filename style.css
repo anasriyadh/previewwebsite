@@ -185,8 +185,8 @@ nav a {
 }
 
 .services-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    display: flex;
+    justify-self: center;
     gap: 30px;
 }
 
